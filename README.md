@@ -13,7 +13,11 @@
 • Plot sparsity-training accuracy of origin model over epochs
 
 • Plot scaling factor distribution with 3 different λ value
+
 • Show model test accuracy after pruning 50% channels 
+
 • Show model test accuracy after pruning 90% channels 
+
 • Plot training (fine-tuning) accuracy of pruned 90% model over epochs
+
 • Show what problem you encounter and how you solve it
