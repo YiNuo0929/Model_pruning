@@ -1,6 +1,7 @@
 
 ## Implement algorithm performed in Network Slimming.
 • Architecture: VGG
+
 • Dataset: CIFAR10
 1. Complete scaling factor distribution visualization
 2. Complete different prune ratio 
