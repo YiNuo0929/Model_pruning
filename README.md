@@ -11,6 +11,7 @@
 5. Run train_prune_model.ipynb to train pruned model (fine-tune)
 ## Report 大綱
 • Plot sparsity-training accuracy of origin model over epochs
+
 • Plot scaling factor distribution with 3 different λ value
 • Show model test accuracy after pruning 50% channels 
 • Show model test accuracy after pruning 90% channels 
